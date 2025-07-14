@@ -1,0 +1,75 @@
+table {
+      border-collapse: collapse;
+      width: 100%;
+}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+thead th.logo-col{
+    width: 80px;
+}
+
+thead th.admisi-col{
+    width: 100px;
+}
+
+.logo{
+    width: 100%;
+}
+
+.information{
+    width: 75%;
+    text-align: start;
+    font-weight: normal;
+    vertical-align: top;
+}
+
+p{
+    font-size: 15px;
+}
+
+
+.artikel{
+    width: 35%;
+    vertical-align: top;
+    text-align: start;
+    font-weight: normal;
+}
+.menu-table td {
+    text-align: center;
+}
+
+.uli li{
+    padding-bottom: 1em;
+    font-size: 15px;
+}
+
+.ulii li{
+    font-size: 15px;
+}
+
+.sisfor {
+    width: 40%;
+    text-align: start;
+    font-weight: normal;
+    vertical-align: top;
+}
+.tautan {
+    width: 20%;
+    text-align: start;
+    font-weight: normal;
+    vertical-align: top;
+}
+.kontak {
+    width: 20%;
+    text-align: start;
+    font-weight: normal;
+    vertical-align: top;
+}
+
+th .footer{
+    text-align: start;
+    font-weight: normal;
+}
